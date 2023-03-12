@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/mimansha98/mimansha98/blob/main/hello.gif" height="130" width="250">
+  <img src="https://github.com/sbhmrj/sbhmrj/blob/main/hello.gif" height="130" width="250">
 </p>
 
 <p align="center" >   
