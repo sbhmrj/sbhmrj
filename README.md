@@ -19,7 +19,7 @@
 
 - 👨🏽‍💻 I’m currently working on App Development;
 - 🌱 I’m currently learning Flutter and CI/CD; 
-- 🤝 I’m looking to collaborate on [Blog_app];
+- 🤝 I’m looking to collaborate on some team projects;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am also a problem solver;
 - 📫 How to reach me: mailtosubhamraj@gmail.com;
