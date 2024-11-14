@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subbhamraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/subbhamraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sbhmrj" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
 
